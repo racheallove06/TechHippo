@@ -9,7 +9,7 @@ const NavItems = () => {
   const [activeIndex, setActiveIndex] = useState<null | number>(null);
 
   useEffect(() => {
-    const handler = (e: KeyboardEvent) => {
+    const handler = (e: keyboardEvent) => {
       if (e.key === "Escape") {
         setActiveIndex(null);
       }
