@@ -7,7 +7,7 @@ export const Icons = {
         <path
           d="M105.67 56.012c24.601 24.601 41.244 81.13 16.643 105.731s-81.13 7.958-105.731-16.643-20.623-60.509 3.978-85.11 60.509-28.579 85.11-3.978z"
           fill="#60a5fa"
-          data-original="#abdfeb"
+          data-original="#abdfeb"                  
           opacity="1"
         ></path>
         <path
